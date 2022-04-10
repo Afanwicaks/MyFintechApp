@@ -1,8 +1,9 @@
-package com.example.myfintechapp
+package com.example.myfintechapp.home
 
 import android.os.Bundle
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import com.example.myfintechapp.R
 
 class HomeActivity : AppCompatActivity() {
 

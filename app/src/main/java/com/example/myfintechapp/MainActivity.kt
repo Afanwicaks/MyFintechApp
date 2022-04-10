@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import androidx.fragment.app.Fragment
+import com.example.myfintechapp.home.HomeActivity
 import com.example.myfintechapp.home.HomeFragment
 import com.example.myfintechapp.profile.ProfileFragment
 import com.example.myfintechapp.settings.SettingsFragment
